@@ -8,4 +8,4 @@ Berechnen Sie die Summe der Zahlen.
 Geben Sie die Summe der Zahlen in die Konsole aus:
 ‘Die Summe der Zahlen ist: summe ‘
 */
-var 
+var Zahl
